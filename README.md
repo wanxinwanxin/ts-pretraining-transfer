@@ -1,0 +1,1 @@
+This project explores neural nets and transformers for time series modeling and prediction.
