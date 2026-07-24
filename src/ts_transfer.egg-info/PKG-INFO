@@ -1,3 +1,4 @@
 Metadata-Version: 2.4
 Name: ts_transfer
 Version: 0.0.1
+Requires-Python: >3.12
