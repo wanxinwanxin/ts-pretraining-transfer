@@ -1,0 +1,13 @@
+[build-system]
+requires = ["
+setuptools >= 77.0.3,
+python
+"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ts_transfer"
+version = "0.0.1"
+dependencies = [
+
+]
