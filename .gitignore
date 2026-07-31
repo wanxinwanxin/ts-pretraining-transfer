@@ -7,3 +7,4 @@ coach/
 MENTOR*
 .claude*
 data/
+*.pth
