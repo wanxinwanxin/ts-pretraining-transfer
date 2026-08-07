@@ -1,4 +1,4 @@
-# construct a Two-layer MLP (e.g., 1→32→1 with ReLU) 
+# construct a Two-layer MLP (e.g., 1→32→1 with ReLU)
 from torch import nn
 
 
