@@ -8,3 +8,4 @@ MENTOR*
 .claude*
 /data/
 *.pth
+/results/
